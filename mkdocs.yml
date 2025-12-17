@@ -1,7 +1,7 @@
 # Загальна інформація про проєкт
-site_name: Документація до Калькулятора
-site_author: Ваше Ім'я та Прізвище
-site_description: 'Проста та зрозуміла документація для консольного калькулятора.'
+site_name: Dokumentatsiya do Kальkulyatora
+site_author: Vashe Ime ta Prizvyshche
+site_description: 'Prosta ta zrozumila dokumentatsiya dlya konsolnogo kalkulyatora.'
 
 # Налаштування зовнішнього вигляду
 theme:
@@ -10,8 +10,8 @@ theme:
 
 # Налаштування структури навігаційного меню
 nav:
-  - Головна: index.md
-  - Посібник користувача:
-      - Встановлення: docs/guide/installation.md
-      - Приклади використання: docs/guide/usage.md
-  - Про проєкт: docs/about.md
+  - Holovna: index.md
+  - Posibnyk koryshtuacha:
+      - Vstanovlennya: docs/guide/installation.md
+      - Priklady vykorystannya: docs/guide/usage.md
+  - Pro proekt: docs/about.md
